@@ -12,3 +12,5 @@ Potential future features:
 * Also output a (small) video of the lag graph. This could then be put next to the original video with simple video editting software.
 * Automated reading of the timer in PD, and syncing with that
 
+Tested carefully on the start of Caverns agent and (after a tweak) it's entirely accurate on the first 5s.
+Tested sporadically elsewhere in the run and it seems good.
